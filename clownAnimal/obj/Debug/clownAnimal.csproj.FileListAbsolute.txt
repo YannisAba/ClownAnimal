@@ -1,0 +1,45 @@
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\clownAnimal.exe.config
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\clownAnimal.exe
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\clownAnimal.pdb
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.csproj.SuggestedBindingRedirects.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.Form1.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.Properties.Resources.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.exe
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.pdb
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.Home.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.Form2.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\EntityFramework.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\EntityFramework.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\bin\Debug\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal\clownAnimal\obj\Debug\clownAnimal.csproj.CopyComplete
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.csproj.SuggestedBindingRedirects.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Form2.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Form1.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Form3.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Home.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Properties.Resources.resources
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.exe
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.pdb
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\clownAnimal.exe.config
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\clownAnimal.exe
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\clownAnimal.pdb
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\EntityFramework.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\System.Data.SQLite.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\System.Data.SQLite.EF6.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\System.Data.SQLite.Linq.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\EntityFramework.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\System.Data.SQLite.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.csproj.CopyComplete
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\Dapper.dll
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\Dapper.xml
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\bin\Debug\Base_kati.db
+C:\VISUAL STUDIO\c#\αλεπης\εργασιες\clownAnimal - Αντιγραφή\clownAnimal\obj\Debug\clownAnimal.Form4.resources

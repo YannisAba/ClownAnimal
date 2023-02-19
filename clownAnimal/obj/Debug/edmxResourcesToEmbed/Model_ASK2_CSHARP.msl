@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model_ASK2_CSHARPStoreContainer" CdmEntityContainer="Model_ASK2_CSHARPContainer">
+    <EntitySetMapping Name="Players">
+      <EntityTypeMapping TypeName="IsTypeOf(Model_ASK2_CSHARP.Player)">
+        <MappingFragment StoreEntitySet="Players">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="easyScore" ColumnName="easyScore" />
+          <ScalarProperty Name="hardScore" ColumnName="hardScore" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
